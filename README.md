@@ -1,0 +1,1 @@
+C'est un exercice de cours pour le cfpt informatique
